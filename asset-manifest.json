@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Harsha/static/css/main.0fe0e915.css",
+    "main.js": "/Harsha/static/js/main.faa5d8df.js",
+    "static/js/488.f7234e83.chunk.js": "/Harsha/static/js/488.f7234e83.chunk.js",
+    "static/media/header.jpeg": "/Harsha/static/media/header.872b3ad0996a4934cc7d.jpeg",
+    "index.html": "/Harsha/index.html",
+    "main.0fe0e915.css.map": "/Harsha/static/css/main.0fe0e915.css.map",
+    "main.faa5d8df.js.map": "/Harsha/static/js/main.faa5d8df.js.map",
+    "488.f7234e83.chunk.js.map": "/Harsha/static/js/488.f7234e83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fe0e915.css",
+    "static/js/main.faa5d8df.js"
+  ]
+}
